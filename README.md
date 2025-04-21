@@ -1,10 +1,7 @@
 # day-1.ipynb
 
 ## Overview
-This Jupyter notebook (`day-1.ipynb`) appears to be a new or empty notebook. This README provides information on how to use and navigate the notebook.
-
-## Description
-The notebook is currently empty and ready for your data analysis, code implementation, or educational content. Jupyter notebooks are interactive computing environments that allow you to combine code execution, rich text, mathematics, plots, and rich media.
+This README provides information on how to use and navigate the notebook.
 
 ## Requirements
 To use this notebook, you'll need:
@@ -49,5 +46,3 @@ Create a clear structure in your notebook using markdown cells for section heade
 ## Version Control
 Consider using a version control system like Git to track changes to your notebook. You can install extensions like `nbdime` for better diff and merge support for Jupyter notebooks.
 
-## Contact
-[Add your contact information or project repository link here]
